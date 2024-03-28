@@ -2,19 +2,6 @@
 
 Basic Tasks Management Application
 
-## Table of Contents
-
-- [Features](#features)
-- [Tools and Technologies](#tools-and-technologies)
-- [Dependencies](#dependencies)
-- [Dev-dependencies](#dev-dependencies)
-- [Prerequisites](#prerequisites)
-- [Installation and setup](#installation-and-setup)
-- [Backend API](#backend-api)
-- [frontend pages](#frontend-pages)
-- [npm scripts](#npm-scripts)
-
-
 ## Features
 
 ### User-side features
@@ -81,12 +68,6 @@ Following are the major dependencies of the project:
 - jsonwebtoken
 - mongoose
 
-## Dev-dependencies
-
-Following are the major dev-dependencies of the project:
-
-- nodemon
-- concurrently
 
 ## Prerequisites
 
